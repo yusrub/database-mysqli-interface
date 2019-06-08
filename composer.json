@@ -1,0 +1,17 @@
+{
+    "name": "yusrub/database-mysqli-interface",
+    "description": "Basic database interface using MySqli",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "GUl Muhammad",
+            "email": "yusrub@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Yusrub\\DatabaseMysqliInterface\\" : "src/"
+        }
+    }
+}
